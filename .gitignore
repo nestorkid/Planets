@@ -1,0 +1,3 @@
+*.dat
+# Exclude these file from the commit
+result/
